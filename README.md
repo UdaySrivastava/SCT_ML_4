@@ -7,3 +7,5 @@ This project focuses on developing a Hand Gesture Recognition Model that accurat
 `SCT_ML_4` Contains the code for hand gesture recognition.
 </br>
 `train.csv` Contains the sample hand gesture images for training the model
+</br>
+The kaggle dataset can be found @https://www.kaggle.com/datasets/gti-upm/leapgestrecog
